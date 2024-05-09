@@ -49,7 +49,7 @@ public class UsuarioControlador implements UserRepository {
         }
         return user;
     }
-
+    
 	@Override
     public void addUser(Usuario usuario) {
         try {
