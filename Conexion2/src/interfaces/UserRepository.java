@@ -1,5 +1,5 @@
-package conexion;
-
+package interfaces;
+import Modelos.Usuario;
 import java.util.List;
 
 public interface UserRepository {

@@ -1,10 +1,13 @@
-package conexion;
+package vista;
 
 import java.util.List;
 
 import javax.swing.JOptionPane;
 
 import com.mysql.jdbc.Connection;
+
+import Modelos.Usuario;
+import controladores.UsuarioControlador;
 
 public class Main {
 	public static void main(String[] args) {
